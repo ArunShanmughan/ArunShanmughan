@@ -1,7 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--gMqNFSvy--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Arun Shanmughan</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt = "Coding" width = "400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<h3 align="left">A passionate MERN Stack developer from India</h3>
+<img align="center" alt = "Coding" width = "400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunshanmughan&label=Profile%20views&color=0e75b6&style=flat" alt="arunshanmughan" /> </p>
 
