@@ -21,7 +21,7 @@
 - 🤝 I’m looking for help with **Finance System Management**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://arunshanmughan.github.io/portfolionew/)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/arun-s)
-- 💬 Ask me about **JavaScript, EJS, DSA**
+- 💬 Ask me about **JavaScript, Node JS, DSA**
 - 📫 How to reach me **arunshanmughan35@gmail.com**
 - ⚡ Fun fact: **Give it a try!**
 
