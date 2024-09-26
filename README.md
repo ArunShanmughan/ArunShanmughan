@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunshanmughan&label=Profile%20views&color=brightgreen&style=flat-square" alt="arunshanmughan" /> </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/arun-s" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="arun s" /></a>
+<a href="https://www.linkedin.com/in/arun-shanmughan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="arun s" /></a>
 <a href="https://stackoverflow.com/users/arun-s" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="arun s" /></a>
 <a href="https://www.leetcode.com/arunshanmughan" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="arunshanmughan" /></a>
 </p>
